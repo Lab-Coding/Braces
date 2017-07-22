@@ -1,2 +1,4 @@
-# Braces
-Braces est un éditeur de codes, libre et open-source, en ligne
+Braces
+======
+
+A Symfony project created on July 22, 2017, 10:53 am.
